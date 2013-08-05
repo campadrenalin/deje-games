@@ -15,5 +15,6 @@ None so far.
  * Chess
  * [Go](https://en.wikipedia.org/wiki/Go_\(game\))
  * Checkers
+ * [Drench](http://www.flashbynight.com/drench/)
 
 [deje]: https://github.com/campadrenalin/python-libdeje
